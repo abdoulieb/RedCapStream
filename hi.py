@@ -1,0 +1,10 @@
+echo "# RedCapStream" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/abdoulieb/RedCapStream.git
+git push -u origin main
+git remote add origin https://github.com/abdoulieb/RedCapStream.git
+git branch -M main
+git push -u origin main
